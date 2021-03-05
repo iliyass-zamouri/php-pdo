@@ -1,10 +1,12 @@
-<html>
+<html lang="francais">
   <body>
   <h2>Se connecter</h2>
   <form action="" method="POST">
   <table><tr>
   <td><label for="login">Login:</label></td>
-  <td><input type="text" name="login"></td>
+  <td><label>
+          <input type="text" name="login">
+      </label></td>
   </tr><tr>
   <td><label for="mp">Mot de passe:</label></td>
   <td><input type="text" name="mp"></td>
